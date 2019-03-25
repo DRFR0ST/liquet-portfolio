@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#010101;}
+	.st1{fill:none;stroke:#000000;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:77.7575,77.7575;}
+</style>
+<path id="XMLID_1_" class="st0" d="M344.2,183.6c-19.4,0-37.7,7.5-50.7,20.6L255.4,238l-20.4,18h0.1l-36.2,32.1
+	c-8.6,8.6-20,13.3-32.3,13.3c-25.2,0-45.6-20.3-45.6-45.5s20.4-45.5,45.6-45.5c12.2,0,23.7,4.7,32.8,13.9l15.2,13.5l20.3-18
+	L218,204.9c-13.7-13.7-32-21.3-51.4-21.3c-40.1,0-72.6,32.6-72.6,72.4s32.6,72.4,72.6,72.4c19.4,0,37.7-7.5,50.7-20.6l38.1-33.6
+	l0.1,0.1l20.3-18.3h-0.1l36.2-32.1c8.6-8.6,20-13.3,32.3-13.3c25.2,0,45.6,20.3,45.6,45.5s-20.4,45.5-45.6,45.5
+	c-12.1,0-23.7-4.7-32.8-13.9L296,274l-20.3,18l17.1,15.1c13.7,13.6,31.9,21.1,51.4,21.1c40.1,0,72.6-32.4,72.6-72.4
+	S384.2,183.6,344.2,183.6z"/>
+<g id="XMLID_2_">
+	<circle id="XMLID_9_" class="st1" cx="255.9" cy="256.1" r="247.5">
+		<animateTransform attributeName="transform"
+			attributeType="XML"
+			type="rotate"
+			from="0 256 256"
+			to="360 256 256"
+			dur="8s"
+			repeatCount="indefinite" />
+	</circle>
+</g>
+</svg>
